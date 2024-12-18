@@ -20,8 +20,9 @@
         <input type="password" id="pass" name="pass" required>
     </div>
                    <button type="submit" class="btn">Login</button>
-   </div>
+   
     </form>
+    </div>
 </body>
 </html>
 
